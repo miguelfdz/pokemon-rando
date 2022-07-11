@@ -1,0 +1,131 @@
+CRITICAL - 2022-07-11 12:12:53 --> Undefined constant "App\Controllers\i"
+in APPPATH/Controllers/Home.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 12:17:34 --> Undefined constant "App\Controllers\i"
+in APPPATH/Controllers/Home.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 12:17:52 --> Undefined constant "App\Controllers\i"
+in APPPATH/Controllers/Home.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 12:18:02 --> Undefined constant "App\Controllers\i"
+in APPPATH/Controllers/Home.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 12:18:47 --> Undefined constant "App\Controllers\i"
+in APPPATH/Controllers/Home.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 12:22:25 --> Undefined constant "App\Controllers\i"
+in APPPATH/Controllers/Home.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 12:36:22 --> Cannot access offset of type string on string
+in APPPATH/Controllers/Home.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 12:37:49 --> Too few arguments to function PokePHP\PokeApi::pokedex(), 0 passed in /Applications/MAMP/htdocs/pokeapi/app/Controllers/Home.php on line 19 and exactly 1 expected
+in VENDORPATH/danrovito/pokephp/src/PokeApi.php on line 103.
+ 1 APPPATH/Controllers/Home.php(19): PokePHP\PokeApi->pokedex()
+ 2 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 12:41:38 --> Cannot access offset of type string on string
+in APPPATH/Controllers/Home.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 12:44:12 --> Cannot access offset of type string on string
+in APPPATH/Controllers/Home.php on line 21.
+ 1 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 12:44:21 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/Home.php on line 21.
+ 1 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 12:44:49 --> Cannot access offset of type string on string
+in APPPATH/Controllers/Home.php on line 21.
+ 1 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 12:45:33 --> Cannot access offset of type string on string
+in APPPATH/Controllers/Home.php on line 21.
+ 1 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 12:51:00 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/Home.php on line 21.
+ 1 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 2 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 12:53:36 --> Undefined array key 202
+in APPPATH/Controllers/Home.php on line 21.
+ 1 APPPATH/Controllers/Home.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 202', 'APPPATH/Controllers/Home.php', 21)
+ 2 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 17:49:39 --> Undefined array key 151
+in APPPATH/Controllers/Home.php on line 16.
+ 1 APPPATH/Controllers/Home.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 151', 'APPPATH/Controllers/Home.php', 16)
+ 2 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 17:51:43 --> Undefined array key 151
+in APPPATH/Controllers/Home.php on line 16.
+ 1 APPPATH/Controllers/Home.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 151', 'APPPATH/Controllers/Home.php', 16)
+ 2 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-07-11 17:58:25 --> Undefined array key 151
+in APPPATH/Controllers/Home.php on line 18.
+ 1 APPPATH/Controllers/Home.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 151', 'APPPATH/Controllers/Home.php', 18)
+ 2 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
