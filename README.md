@@ -12,4 +12,4 @@ Simple Codigniter 4 app that display 10 random pokemon from Kanto region using p
 - Open repository directory
 - In terminal type < php spark serve > to start the local server
 - Open < http://localhost:8080 > in browser
-- Refresh page to get new 10 random Pokemon
+- Refresh page to get 10 new random Pokemon
